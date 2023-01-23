@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </br>
 Y alguna más...
 
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/javiercordoves)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javiercordoves)
+[![Twitter](https://img.shields.io/badge/Twitter-@javiercordoves-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/javiercordoves)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Cordoves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javiercordoves)
